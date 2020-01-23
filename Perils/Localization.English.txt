@@ -1,12 +1,11 @@
 .,English
 quest.name,Valkyrie Perils
 quest.description,This is a peril template for descent mission created with the mission creation editor valkyrie.
-EventEndPeril.button1,Continue
 EventPerils.button1,Continue
-EventPeril2.button1,Continue
-EventPeril3.text,Peril 1 Text
-EventPeril3.button1,Continue
+EventEndPeril.button1,Continue
 EventPeril1.button1,Continue
+EventPeril2.button1,Continue
+EventPeril3.button1,Continue
 EventPeril4.button1,Continue
 EventPeril5.button1,Continue
 EventPerils6.button1,Continue
