@@ -13,7 +13,7 @@ Manual:
 
 ![QuestIniScreenshot](/Images/QuestIni.png)
 
-3. Ensure your mission has an event which uses the `RoundEnd` trigger.
+3. Ensure your mission has an event which uses the `RoundEnd` trigger. Add an `EndRoundEvent` as a follow up event. Assign the variable `PerilDone` to 0.
 
 ![EndRoundTriggerScreenshot](/Images/EndRoundTrigger.png)
 
