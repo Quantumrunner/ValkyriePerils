@@ -10,15 +10,5 @@ Manual:
 3. Ensure your mission has an event which uses the `RoundEnd` trigger.
 4. Add the `EventPerils` event to your RoundEnd-Trigger event.
 5. Set the starting rounds for the perils by editing the `PerilRound1`-`PerilRound6` variables.
-6. Set the button texts for the `EventPeril1button1`-`EventPeril1button1`, `EventPerils.button1` and the `EventEndPeril.button1` texts from the `Localization.English.txt` to the of `Localization.English.txt` your mission or add it from here:
-
-`EventPerils.button1,Continue
-EventEndPeril.button1,Continue
-EventPeril1.button1,Continue
-EventPeril2.button1,Continue
-EventPeril3.button1,Continue
-EventPeril4.button1,Continue
-EventPeril5.button1,Continue
-EventPerils6.button1,Continue`
-
+6. Set the button texts for the `EventPeril1button1`-`EventPeril1button1`, `EventPerils.button1` and the `EventEndPeril.button1` texts from the `Localization.English.txt` to the of `Localization.English.txt` your mission.
 7. Add a link event to your  RoundEnd-Trigger event the `EventEndPeril`.
