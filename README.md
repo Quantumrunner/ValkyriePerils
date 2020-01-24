@@ -3,11 +3,11 @@ This is a event template for [Valkyrie](https://github.com/NPBruce/valkyrie/wiki
 
 Using this template you can easily add perils as used in Descent: Road to legend.
 
-Manual:
+## How to use the template:
 
 1. Copy the perils.ini to your Valkyrie descent mission.
 
-![PerilIniScreenshot](/Images/perilIni.png)
+![PerilIniScreenshot](/Images/PerilIni.png)
 
 2. Add the perils.ini to the `[QuestData]` section of your quest.ini file.
 
@@ -32,3 +32,7 @@ Manual:
 7. Add a link event to your  RoundEnd-Trigger event the `EventEndPeril`.
 
 ![EndPerilScreenshot](/Images/EndPeril.png)
+
+If everything worked correctly a peril text should appear at the end of the next round:
+
+![EndPerilScreenshot](/Images/Peril1.png)
