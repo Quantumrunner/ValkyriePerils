@@ -7,7 +7,7 @@ Using this template you can easily add perils as used in Descent: Road to legend
 
 1. Copy the perils.ini to your Valkyrie descent mission.
 
-![PerilIniScreenshot](/Images/PerilIni.png)
+![PerilIniScreenshot](/Images/perilIni.png)
 
 2. Add the perils.ini to the `[QuestData]` section of your quest.ini file.
 
