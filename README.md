@@ -25,11 +25,7 @@ Using this template you can easily add perils as used in Descent: Road to legend
 
 ![PerilVariablesScreenshot](/Images/PerilVariables.png)
 
-6. Set the button texts for the `EventPeril1button1`-`EventPeril1button6`, `EventPerils.button1` and the `EventEndPeril.button1` texts from the `Localization.English.txt` to the of `Localization.English.txt` your mission.
-
-![PerilTextsScreenshot](/Images/PerilTexts.png)
-
-7. Add a link event to your  RoundEnd-Trigger event the `EventEndPeril`.
+6. Add a link event to your  RoundEnd-Trigger event the `EventEndPeril`.
 
 ![EndPerilScreenshot](/Images/EndPeril.png)
 
