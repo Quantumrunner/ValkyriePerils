@@ -4,7 +4,7 @@ This is an event template for creating peril events for [Descent: Journeys in th
 Using this template you can easily add perils as used in Descent: Road to legend.
 
 ## What are perils?
-PerilsPerils are encountered in Road to Legend / Valkyrie coop missions of descent. 
+Perils are encountered in Road to Legend / Valkyrie coop missions of descent. 
 
 - Peril effects may occur at the end of a round after the heroes spent a certain amount of time in a quest or stage.
 - Peril effects may cause monsters to spawn, deal damage, or generally inflict harm on the heroes.
