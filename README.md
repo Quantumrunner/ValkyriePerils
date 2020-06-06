@@ -1,10 +1,10 @@
 # ValkyriePerils
 This is an event template for creating peril events for [Descent: Journeys in the Dark (Second Edition)](https://descent2e.fandom.com) missions in the [valkyrie](https://github.com/NPBruce/valkyrie/wiki) mission creation tool.
 
-Using this template you can easily add perils as used in Descent: Road to legend.
+Using this template you can easily add perils to your valkyrie missions as used in [Descent: Road to legend](https://www.fantasyflightgames.com/en/news/2016/3/15/road-to-legend/).
 
 ## What are perils?
-Perils are encountered in Road to Legend / Valkyrie coop missions of descent. 
+Perils are encountered in Descent: Road to Legend / Valkyrie coop missions of descent. 
 
 - Peril effects may occur at the end of a round after the heroes spent a certain amount of time in a quest or stage.
 - Peril effects may cause monsters to spawn, deal damage, or generally inflict harm on the heroes.
