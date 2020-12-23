@@ -11,6 +11,12 @@ Perils are encountered in Descent: Road to Legend / Valkyrie coop missions of de
 
 Check out the  Descent [Community Rules Reference Guide (CRRG)](https://descent-community.org/index.php/crrg/) for more details regarding perils.
 
+Valkyrie contains minor, major and deadly perils.
+
+**Minor perils** only have a minor negative effect for the heroes.
+**Major perils** only have can have heavy negative effects for the heroes and kill heroes if the heroes are not well prepared.
+**Deadly perils** end a mission after a specific number of rounds or make a huge amount of damage. The problem with these kind of perils is that you can not react to them. The app doesn't tell you as app developer when the deadly peril which ends the game happens. **Therefore do not use this perils at all!** Instead create custom events when you want to use deadly peril effects.
+
 ## How to use the template:
 
 1. Copy the perils.ini to your Valkyrie descent mission.
