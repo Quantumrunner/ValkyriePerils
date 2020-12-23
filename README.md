@@ -17,9 +17,7 @@ Valkyrie contains three forms of perils:
 - major
 - deadly
 
-**Minor perils** only have a minor negative effect for the heroes.
-**Major perils** only have can have heavy negative effects for the heroes and kill heroes if the heroes are not well prepared.
-**Deadly perils** end a mission after a specific number of rounds or make a huge amount of damage. The problem with these kind of perils is that you can not react to them. The app doesn't tell you as app developer when the deadly peril which ends the game happens. **Therefore do not use this perils at all!** Instead create custom events when you want to use deadly peril effects.
+**Minor perils** only have a minor negative effect for the heroes (e.g. poisoning a hero). **Major perils** can have heavy negative effects for the heroes and kill heroes if the heroes are not well prepared (e.g. 4 damage to all heroes). **Deadly perils** end a mission after a specific number of rounds or make a huge amount of damage. The problem with these kind of perils is that you can not react to them. The app doesn't tell you as app developer when the deadly peril which ends the game happens. **Therefore do not use this perils at all!** Instead create custom events when you want to use deadly peril effects.
 
 ## How to use the template:
 
