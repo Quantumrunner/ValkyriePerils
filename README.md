@@ -11,7 +11,11 @@ Perils are encountered in Descent: Road to Legend / Valkyrie coop missions of de
 
 Check out the  Descent [Community Rules Reference Guide (CRRG)](https://descent-community.org/index.php/crrg/) for more details regarding perils.
 
-Valkyrie contains minor, major and deadly perils.
+Valkyrie contains three forms of perils:
+
+- minor
+- major
+- deadly
 
 **Minor perils** only have a minor negative effect for the heroes.
 **Major perils** only have can have heavy negative effects for the heroes and kill heroes if the heroes are not well prepared.
